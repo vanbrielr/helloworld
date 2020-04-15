@@ -1,0 +1,6 @@
+{
+    "name": "vanbrielr/helloworld",
+    "require": {
+        "monolog/monolog": "^1.25"
+    }
+}
