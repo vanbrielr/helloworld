@@ -13,4 +13,5 @@ $logger->pushHandler(new FirePHPHandler());
 // You can now use your logger
 $logger->info('My logger is now ready');
 
-echo "log written...";
+echo "log written...<br />";
+echo "log writte again...";
